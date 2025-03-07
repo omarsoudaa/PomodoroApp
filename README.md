@@ -2,7 +2,7 @@ Pomodoro Timer App A simple Pomodoro Timer app to help boost productivity by usi
 
 Requirements Modern browser with HTML5 & CSS3 support. No frameworks required, just JavaScript & CSS. Use a bundler like Webpack or Parcel (optional). Setup
 
-Clone the repository git clone :
+Clone the repository git clone :https://github.com/omarsoudaa/PomodoroApp.git
 
 Install dependencies (optional) in terminal in gitbash
 
